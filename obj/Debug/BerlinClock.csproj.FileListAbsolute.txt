@@ -1,0 +1,7 @@
+C:\Users\Horacy\Documents\Visual Studio 2015\Projects\DotNetBerlinClock-master\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll.config
+C:\Users\Horacy\Documents\Visual Studio 2015\Projects\DotNetBerlinClock-master\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
+C:\Users\Horacy\Documents\Visual Studio 2015\Projects\DotNetBerlinClock-master\DotNetBerlinClock-master\bin\Debug\BerlinClock.pdb
+C:\Users\Horacy\Documents\Visual Studio 2015\Projects\DotNetBerlinClock-master\DotNetBerlinClock-master\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Horacy\Documents\Visual Studio 2015\Projects\DotNetBerlinClock-master\DotNetBerlinClock-master\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Horacy\Documents\Visual Studio 2015\Projects\DotNetBerlinClock-master\DotNetBerlinClock-master\obj\Debug\BerlinClock.dll
+C:\Users\Horacy\Documents\Visual Studio 2015\Projects\DotNetBerlinClock-master\DotNetBerlinClock-master\obj\Debug\BerlinClock.pdb
